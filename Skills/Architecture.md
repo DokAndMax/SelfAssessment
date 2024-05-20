@@ -1,51 +1,51 @@
 ## Architecture
 
 - Application structure
-  - Modularity k
-  - Components k
-  - Directories k
-  - GRASP k
-  - SOLID u
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 🎓 known
+  - SOLID: 🖐️ used
   - GoF patterns
   - CQS
-  - Leaking abstractions h
-  - Multiparadigm code k
-  - Contract programming h
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 👂 heard
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage u
-  - Cohesion k
-  - Coupling k
+  - Code coverage: 🖐️ used
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
-  - Reliability k
-  - Quality k
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer k
-  - Domain-specific language (DSL) h
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC) u
-  - Dependency injection (DI) u
-  - Clean architecture k
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🎓 known
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
-  - Service locator h
+  - Service locator: 👂 heard
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - E-R data modeling k
-  - Entity-relationship diagram k
+  - E-R data modeling: 🎓 known
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML k
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -74,7 +74,7 @@
   - BPMN
   - Low-code
   - No-code
-  - Metric h
+  - Metric: 👂 heard
   - Metric abuse
   - ACID
   - CAP theorem
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices h
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse

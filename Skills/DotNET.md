@@ -1,90 +1,90 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET h
-  - Stateful and stateless services u
-  - Asynchronous and synchronous programming u
-  - Task-based asynchronous pattern u
-  - Garbage collection in .NET k
-  - .NET runtime versions and support k
-  - I/O-bound, CPU-bound tasks u
+  - Strengths and weaknesses of .NET: 👂 heard
+  - Stateful and stateless services: 🖐️ used
+  - Asynchronous and synchronous programming: 🖐️ used
+  - Task-based asynchronous pattern: 🖐️ used
+  - Garbage collection in .NET: 🎓 known
+  - .NET runtime versions and support: 🎓 known
+  - I/O-bound, CPU-bound tasks: 🖐️ used
   - Real-time applications with SignalR
 - Modularity and Dependencies
-  - .NET assemblies u
-  - NuGet package management k
-  - Dependency management in .NET u
-  - Dependency Injection in .NET u
-  - Inversion of Control (IoC) u
-  - IoC containers in .NET u
-  - Middleware and pipeline configuration h
+  - .NET assemblies: 🖐️ used
+  - NuGet package management: 🎓 known
+  - Dependency management in .NET: 🖐️ used
+  - Dependency Injection in .NET: 🖐️ used
+  - Inversion of Control (IoC): 🖐️ used
+  - IoC containers in .NET: 🖐️ used
+  - Middleware and pipeline configuration: 👂 heard
   - Modular applications
 - Environment and Tools
-  - Command line interface (CLI) tools k
-  - .NET CLI k 
+  - Command line interface (CLI) tools: 🎓 known
+  - .NET CLI: 🎓 known
   - Windows Services and Linux Daemons
   - Hosting and Deployment models
   - IIS and Kestrel web server
-  - Environment variables and configuration u
-  - File system I/O operations u
-  - Multithreading with Task Parallel Library (TPL) u
-  - Performance monitoring and diagnostics k
+  - Environment variables and configuration: 🖐️ used
+  - File system I/O operations: 🖐️ used
+  - Multithreading with Task Parallel Library (TPL): 🖐️ used
+  - Performance monitoring and diagnostics: 🎓 known
 - APIs and Framework Features
-  - LINQ u
+  - LINQ: 🖐️ used
   - SignalR for real-time web functionality
   - High-performance RPC with `gRPC`
-  - Security features (authentication, authorization) h
+  - Security features (authentication, authorization): 👂 heard
   - Cryptography and secure data handling
-  - Memory and resource management u
-  - Globalization and localization u
+  - Memory and resource management: 🖐️ used
+  - Globalization and localization: 🖐️ used
 - Network and Protocols
-  - HTTP/HTTPS support k
+  - HTTP/HTTPS support: 🎓 known
   - WebSockets for real-time communication
-  - TCP/UDP networking k
-  - SSL/TLS for secure connections h
+  - TCP/UDP networking: 🎓 known
+  - SSL/TLS for secure connections: 👂 heard
   - Efficient network communication with `gRPC`
-  - HTTP/2 and HTTP/3 support h
+  - HTTP/2 and HTTP/3 support: 👂 heard
   - Network security (DDoS, XSS, CSRF prevention)
-  - Serialization and deserialization (JSON, XML) u
+  - Serialization and deserialization (JSON, XML): 🖐️ used
 - Testing and Debugging
-  - Unit testing with frameworks like xUnit, NUnit u
-  - Integration testing k
-  - Logging and tracing u
-  - Application monitoring and telemetry h
-  - Debugging tools and strategies u
-  - Performance profiling and analysis u
+  - Unit testing with frameworks like xUnit, NUnit: 🖐️ used
+  - Integration testing: 🎓 known
+  - Logging and tracing: 🖐️ used
+  - Application monitoring and telemetry: 👂 heard
+  - Debugging tools and strategies: 🖐️ used
+  - Performance profiling and analysis: 🖐️ used
 - Data Access and ORM
-  - Entity Framework Core u
+  - Entity Framework Core: 🖐️ used
   - Dapper
   - ADO.NET for database access
-  - Data modeling and migration h
-  - Repository and Unit of Work patterns h
-  - CRUD operations h
+  - Data modeling and migration: 👂 heard
+  - Repository and Unit of Work patterns: 👂 heard
+  - CRUD operations: 👂 heard
 - Error Handling and Debugging
-  - Exception handling in .NET u
-  - Custom error classes u
-  - Debugging and diagnostic tools u
-  - Profiling and performance analysis u
-  - Memory leak detection h
+  - Exception handling in .NET: 🖐️ used
+  - Custom error classes: 🖐️ used
+  - Debugging and diagnostic tools: 🖐️ used
+  - Profiling and performance analysis: 🖐️ used
+  - Memory leak detection: 👂 heard
 - Integration and Extensibility
-  - Interoperability with native libraries k
-  - P/Invoke for calling `C/C++` libraries u
+  - Interoperability with native libraries: 🎓 known
+  - P/Invoke for calling `C/C++` libraries: 🖐️ used
   - COM interop
   - .NET for `WebAssembly`
-  - Custom middleware development h
+  - Custom middleware development: 👂 heard
 - Cloud and Microservices
   - Integration with cloud platforms (Azure, AWS)
-  - Microservices architecture h
-  - Containerization with Docker k
+  - Microservices architecture: 👂 heard
+  - Containerization with Docker: 🎓 known
   - Kubernetes for orchestration
   - Serverless computing
 - C# Development
-  - C# syntax and language fundamentals u
-  - Advanced C# features (LINQ, async/await, delegates, events) u
-  - Reflection and dynamic programming h
-  - Data types and collections u
-  - Generics and extension methods u
-  - Attributes and annotations u
-  - Interoperability with other .NET languages h
+  - C# syntax and language fundamentals: 🖐️ used
+  - Advanced C# features (LINQ, async/await, delegates, events): 🖐️ used
+  - Reflection and dynamic programming: 👂 heard
+  - Data types and collections: 🖐️ used
+  - Generics and extension methods: 🖐️ used
+  - Attributes and annotations: 🖐️ used
+  - Interoperability with other .NET languages: 👂 heard
 - `F#` Development
   - `F#` syntax and language fundamentals
   - Immutable data structures
@@ -103,17 +103,17 @@
   - Office automation and VSTO
   - Migration strategies for legacy VB6 applications
 - C++/CLI Development Development
-  - C++ syntax and language fundamentals u
+  - C++ syntax and language fundamentals: 🖐️ used
   - Interoperability between managed (.NET) and unmanaged (native) code
-  - Memory management in mixed environments h
-  - `C++/CLI` syntax and usage h
+  - Memory management in mixed environments: 👂 heard
+  - `C++/CLI` syntax and usage: 👂 heard
   - Accessing .NET Framework classes in `C++`
   - Writing performance-critical modules
   - Interfacing with native libraries and APIs
   - Developing custom .NET libraries in `C++`
-  - Managing resource disposal and finalization u
-  - Creating and consuming DLLs (Dynamic Link Libraries) h
-  - Working with Windows API u
+  - Managing resource disposal and finalization: 🖐️ used
+  - Creating and consuming DLLs (Dynamic Link Libraries): 👂 heard
+  - Working with Windows API: 🖐️ used
   - Migration of legacy `C++` code to .NET
   - Enhancing existing .NET applications with `C++/CLI`
 - Mobile development
@@ -122,7 +122,7 @@
 - Game development
   - Unity
 - Web development
-  - ASP.NET Core h
+  - ASP.NET Core: 👂 heard
   - Blazor
   - Razor Syntax
-  - RESTful API development h
+  - RESTful API development: 👂 heard
