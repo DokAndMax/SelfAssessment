@@ -1,51 +1,51 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 🎓 known
+  - SOLID: 🖐️ used
   - GoF patterns
   - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🎓 known
+  - Contract programming: 👂 heard
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
-  - Cohesion
-  - Coupling
+  - Code coverage: 🖐️ used
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
-  - Reliability
-  - Quality
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
   - Availability
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🎓 known
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
-  - Service locator
+  - Service locator: 👂 heard
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling: 🎓 known
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
-  - UML
+  - UML: 🎓 known
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -74,7 +74,7 @@
   - BPMN
   - Low-code
   - No-code
-  - Metric
+  - Metric: 👂 heard
   - Metric abuse
   - ACID
   - CAP theorem
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
